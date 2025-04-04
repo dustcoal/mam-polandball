@@ -3,9 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://www.myanonamouse.net/*
 // @grant       GM_getResourceURL
-// @version     1.0
+// @version     1.0.1
 // @author      jack
-// @updateURL	none
+// @updateURL	https://github.com/dustcoal/mam-polandball/raw/refs/heads/main/mam-polandball.user.js
 // @description Polandball flags for the shoutbox. Remember to turn shoutbox flag on in mam settings first.
 //
 // @resource USA_icon https://raw.githubusercontent.com/dustcoal/mam-polandball/refs/heads/main/balls/USA_icon.png
